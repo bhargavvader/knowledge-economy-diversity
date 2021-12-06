@@ -1,8 +1,10 @@
 # Data
 
-We use three massive datasets to create our model - the web of science dataset (with research papers published in the US, from 2010-2016), the Open Syllabus Project, and the Burning Glass Job Demands dataset. As the total dataset is massive (over 250 GB), we do not host the full data online. This folder contains a metadata folder that maps different geographic regions to the research institutions in them, as well as the population information used for scaling. The sample data folder contains a sample of the syllabus data.
+We use three massive datasets to create our model - the web of science dataset (with research papers published in the US, from 2010-2016), the Open Syllabus Project, and the Burning Glass Job Demands dataset. As the total dataset is massive (over 250 GB), we do not host the full data online. This folder contains a metadata folder that maps different geographic regions to the research institutions in them, as well as the population information used for scaling. 
 
 The notebooks folder contains a meta data folder that includes cleaning code as well as basic validation of the texts.
+
+A sample of the Open Syllabus Project data can be found via this [google drive link](https://drive.google.com/drive/folders/1pVkpEKBDC8L8d_4obYSH8lnYIkh7qdvq?usp=sharing).
 
 ## Some notes on the Open Syllabus Project:
 
