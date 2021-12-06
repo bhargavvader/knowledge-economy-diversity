@@ -1,0 +1,1284 @@
+San Angelo,['Angelo State University']
+University,['University of Mississippi']
+Medford,['Tufts University']
+Los Altos Hills,['Foothill College']
+Athens,"['University of Georgia', 'Concord University', 'Athens State University', 'Tennessee Wesleyan College', 'Athens Technical College']"
+Union,"['Kean University', 'East Central College']"
+Jackson,"['Jackson College', 'Jackson State University', 'Union University', 'Jackson State Community College', 'Millsaps College', 'Belhaven University']"
+Tuscaloosa,"['The University of Alabama', 'Shelton State Community College', 'Stillman College']"
+Lansing,['Lansing Community College']
+Hobbs,['New Mexico Junior College']
+Carrollton,['University of West Georgia']
+Parkville,['Park University']
+Nacogdoches,['Stephen F Austin State University']
+Albany,"['Excelsior College', 'Linn-Benton Community College', 'SUNY at Albany', 'Albany State University', 'The College of Saint Rose', 'Darton State College', 'Albany Law School', 'Albany College of Pharmacy and Health Sciences']"
+Galveston,['Galveston College']
+Seattle,"['North Seattle College', 'University of Washington-Seattle Campus', 'Seattle University', 'Seattle Central College', 'South Seattle College', 'Seattle Pacific University', 'Cornish College of the Arts', 'City University of Seattle']"
+Houston,"['Houston Community College', 'Texas Southern University', 'Rice University', 'Houston Graduate School of Theology', 'University of Houston-Clear Lake', 'University of Houston-Downtown', 'University of St Thomas-Houston', 'Houston Baptist University', 'South Texas College of Law', 'Baylor College of Medicine']"
+Commerce,['Texas A & M University-Commerce']
+College Park,['University of Maryland-College Park']
+Clemson,['Clemson University']
+Waltham,"['Brandeis University', 'Bentley University']"
+Missoula,['The University of Montana']
+Bowling Green,"['Western Kentucky University', 'Bowling Green State University-Main Campus']"
+Provo,['Brigham Young University-Provo']
+Denver,"['University of Denver', 'University of Colorado Denver', 'Regis University', 'Metropolitan State University of Denver', 'Community College of Denver', 'Iliff School of Theology']"
+Kaneohe,['Windward Community College']
+Adelphi,['University of Maryland-University College']
+Santa Rosa,['Santa Rosa Junior College']
+Okmulgee,['Oklahoma State University Institute of Technology']
+Los Angeles,"['University of Southern California', 'California State University-Los Angeles', 'Loyola Marymount University', 'University of California-Los Angeles', 'Los Angeles Southwest College', 'Occidental College', 'Los Angeles Trade Technical College', 'Los Angeles City College', ""Mount Saint Mary's University"", 'Otis College of Art and Design']"
+Levelland,['South Plains College']
+Waco,"['McLennan Community College', 'Baylor University']"
+San Jose,"['San Jose State University', 'San Jose City College', 'Evergreen Valley College', 'International Technological University']"
+Detroit,"['Wayne State University', 'University of Detroit Mercy', 'Marygrove College', 'Wayne County Community College District', 'College for Creative Studies']"
+San Antonio,"['The University of Texas at San Antonio', 'Trinity University', 'University of the Incarnate Word', 'Our Lady of the Lake University', ""St Mary's University""]"
+Laredo,"['Laredo Community College', 'Texas A & M International University']"
+Orlando,"['Valencia College', 'University of Central Florida', 'Adventist University of Health Sciences']"
+Bellevue,"['Bellevue College', 'Bellevue University']"
+Tyler,"['The University of Texas at Tyler', 'Tyler Junior College', 'Texas College']"
+Powell,['Northwest College']
+Chicago,"['University of Illinois at Chicago', 'Loyola University Chicago', 'DePaul University', 'University of Chicago', 'Columbia College-Chicago', 'North Park University', 'Northeastern Illinois University', 'National Louis University', 'Institute for Clinical Social Work', 'Illinois Institute of Technology', 'School of the Art Institute of Chicago', 'Roosevelt University', 'Meadville Lombard Theological School', 'McCormick Theological Seminary', 'Saint Xavier University', 'Lutheran School of Theology at Chicago', 'Chicago State University', 'American Academy of Art', 'East-West University', 'Adler University', 'MacCormac College', 'Shimer College', 'VanderCook College of Music', 'Catholic Theological Union at Chicago']"
+Wilkes-Barre,"['Wilkes University', ""King's College-Wilkes-Barre""]"
+Saratoga Springs,"['Skidmore College', 'SUNY Empire State College']"
+Evansville,"['University of Evansville', 'University of Southern Indiana']"
+Imperial,['Imperial Valley College']
+Charlotte,"['University of North Carolina at Charlotte', 'Central Piedmont Community College', 'Queens University of Charlotte']"
+New Orleans,"['Loyola University New Orleans', 'University of New Orleans', 'Tulane University of Louisiana', 'New Orleans Baptist Theological Seminary', 'Xavier University of Louisiana', 'Delgado Community College', 'University of Holy Cross']"
+Huntsville,"['Sam Houston State University', 'University of Alabama in Huntsville', 'Oakwood University', 'J F Drake State Community and Technical College']"
+Burbank,['Woodbury University']
+Denton,"['University of North Texas', ""Texas Woman's University""]"
+San Marcos,"['Texas State University', 'California State University-San Marcos']"
+Austin,"['The University of Texas at Austin', 'Austin Graduate School of Theology', ""Saint Edward's University"", 'Concordia University-Texas', 'Austin Presbyterian Theological Seminary', 'Riverland Community College']"
+Des Plaines,['Oakton Community College']
+Akron,['University of Akron Main Campus']
+Azusa,['Azusa Pacific University']
+La Jolla,"['University of California-San Diego', 'National University']"
+Irvine,"['University of California-Irvine', 'Irvine Valley College', 'Concordia University-Irvine']"
+Richardson,['The University of Texas at Dallas']
+Richmond,"['Virginia Commonwealth University', 'Earlham College', 'Eastern Kentucky University', 'J Sargeant Reynolds Community College', 'Virginia Union University', 'Indiana University-East']"
+Oberlin,['Oberlin College']
+Amarillo,['Amarillo College']
+Tampa,"['University of South Florida-Main Campus', 'Hillsborough Community College', 'The University of Tampa']"
+Susanville,['Lassen Community College']
+Beaufort,['Technical College of the Lowcountry']
+Fairfax,"['George Mason University', 'Stratford University']"
+Canyon,['West Texas A & M University']
+Springfield,"['Clark State Community College', 'Springfield Technical Community College', 'Wittenberg University', 'Missouri State University-Springfield', 'Evangel University', 'University of Illinois at Springfield', 'Ozarks Technical Community College', 'Forest Institute of Professional Psychology', 'Drury University', 'Western New England University', 'Lincoln Land Community College', 'American International College']"
+Champaign,"['University of Illinois at Urbana-Champaign', 'Parkland College']"
+Bennington,['Bennington College']
+Godfrey,['Lewis and Clark Community College']
+Wichita Falls,['Midwestern State University']
+Baltimore,"['Johns Hopkins University', 'Goucher College', 'University of Maryland-Baltimore County', 'University of Baltimore', 'The Community College of Baltimore County', 'Maryland Institute College of Art', 'Loyola University Maryland', 'Notre Dame of Maryland University', 'Baltimore City Community College', 'University of Maryland-Baltimore', 'Coppin State University', 'Morgan State University']"
+Normal,"['Illinois State University', 'Alabama A & M University', 'Heartland Community College']"
+Alvin,['Alvin Community College']
+Lake Worth,['Palm Beach State College']
+Ellisville,['Jones County Junior College']
+Gainesville,"['University of Florida', 'Santa Fe College', 'North Central Texas College', 'Brenau University']"
+Culver City,['West Los Angeles College']
+McKinney,['Collin County Community College District']
+Coeur d'Alene,['North Idaho College']
+Searcy,['Harding University']
+Washington,"['George Washington University', 'American University', 'Howard University', 'Georgetown University', 'Catholic University of America', 'University of the District of Columbia', 'Gallaudet University', 'Washington & Jefferson College', 'Trinity Washington University']"
+Syracuse,"['Le Moyne College', 'Syracuse University', 'Onondaga Community College', 'SUNY College of Environmental Science and Forestry', 'Upstate Medical University']"
+Fort Lauderdale,"['Nova Southeastern University', 'Broward College', 'Keiser University-Ft Lauderdale']"
+East Lansing,['Michigan State University']
+Knoxville,"['The University of Tennessee-Knoxville', 'Pellissippi State Community College']"
+West Windsor,['Mercer County Community College']
+Charleston,"['College of Charleston', 'Eastern Illinois University', 'Medical University of South Carolina', 'Charleston School of Law', 'Trident Technical College', 'Charleston Southern University']"
+Santa Monica,"['Santa Monica College', ""Emperor's College of Traditional Oriental Medicine""]"
+Scranton,"['Lackawanna College', 'University of Scranton', 'Marywood University']"
+Elko,['Great Basin College']
+Casper,['Casper College']
+Cleveland,"['Cleveland State University', 'Delta State University', 'Cleveland State Community College', 'Case Western Reserve University', 'Lee University', 'Lakeshore Technical College', 'Cuyahoga Community College District', 'Truett-McConnell College']"
+Milwaukee,"['University of Wisconsin-Milwaukee', 'Marquette University', 'Milwaukee School of Engineering', 'Milwaukee Area Technical College', 'Cardinal Stritch University', 'Medical College of Wisconsin', 'Mount Mary University', 'Alverno College', 'Wisconsin Lutheran College']"
+College Station,['Texas A & M University-College Station']
+Coral Gables,['University of Miami']
+Tucson,"['University of Arizona', 'Pima Community College']"
+Ann Arbor,"['University of Michigan-Ann Arbor', 'Washtenaw Community College', 'Concordia University-Ann Arbor']"
+Texas City,['College of the Mainland']
+Latrobe,['Saint Vincent College']
+Rohnert Park,['Sonoma State University']
+Berrien Springs,['Andrews University']
+Stony Brook,['Stony Brook University']
+Mount Pleasant,"['Northeast Texas Community College', 'Central Michigan University']"
+Abilene,"['Abilene Christian University', 'McMurry University', 'Hardin-Simmons University']"
+Saint George,['Dixie State University']
+Brainerd,['Central Lakes College-Brainerd']
+Johnson City,['East Tennessee State University']
+Durham,"['University of New Hampshire-Main Campus', 'Duke University', 'North Carolina Central University']"
+Southfield,['Lawrence Technological University']
+Victoria,"['Victoria College', 'University of Houston-Victoria']"
+Salem,"['Willamette University', 'Roanoke College', 'Chemeketa Community College', 'Salem State University', 'Corban University']"
+Iowa City,['University of Iowa']
+Salisbury,"['Salisbury University', 'Catawba College', 'Wor-Wic Community College']"
+Allendale,['Grand Valley State University']
+Honolulu,"['Chaminade University of Honolulu', 'University of Hawaii at Manoa', 'Hawaii Pacific University', 'Kapiolani Community College', 'Honolulu Community College']"
+Tulsa,"['Oral Roberts University', 'Tulsa Community College', 'University of Tulsa', 'Phillips Theological Seminary']"
+Pittsburgh,"['Carnegie Mellon University', 'University of Pittsburgh-Pittsburgh Campus', 'Chatham University', 'La Roche College', 'Point Park University', 'Duquesne University', 'Community College of Allegheny County', 'Pittsburgh Theological Seminary', 'Carlow University']"
+Lawrence,['University of Kansas']
+Madison,"['University of Wisconsin-Madison', 'Drew University', 'University of Wisconsin Colleges', 'Madison Area Technical College', 'Dakota State University', 'Edgewood College', 'North Florida Community College']"
+Cupertino,['De Anza College']
+Kingston,['University of Rhode Island']
+Pittsburg,"['Pittsburg State University', 'Los Medanos College']"
+Brevard,['Brevard College']
+Santa Clara,"['Santa Clara University', 'Mission College']"
+New York,"['Barnard College', 'CUNY City College', 'CUNY Borough of Manhattan Community College', 'Columbia University in the City of New York', 'The New School', 'Touro College', 'CUNY John Jay College of Criminal Justice', 'CUNY Hunter College', 'CUNY Graduate School and University Center', 'CUNY Bernard M Baruch College', 'Yeshiva University', 'New York Law School', 'Pace University-New York', 'Cooper Union for the Advancement of Science and Art', 'Marymount Manhattan College', 'Icahn School of Medicine at Mount Sinai', 'New York Academy of Art', 'Technical Career Institutes', 'Metropolitan College of New York', 'Rockefeller University', 'Jewish Theological Seminary of America', 'Bank Street College of Education', 'School of Visual Arts']"
+Clarendon,['Clarendon College']
+Bethlehem,"['Lehigh University', 'Moravian College', 'Northampton County Area Community College']"
+Chapel Hill,['University of North Carolina at Chapel Hill']
+Tallahassee,"['Florida State University', 'Florida Agricultural and Mechanical University', 'Tallahassee Community College']"
+Wilmington,"['University of North Carolina Wilmington', 'Los Angeles Harbor College', 'Cape Fear Community College', 'Goldey-Beacom College']"
+Cambridge,"['Massachusetts Institute of Technology', 'Harvard University', 'Longy School of Music of Bard College', 'Lesley University', 'Cambridge College', 'Episcopal Divinity School']"
+Marylhurst,['Marylhurst University']
+Reedley,['Reedley College']
+Lincroft,['Brookdale Community College']
+Corvallis,['Oregon State University']
+Ames,['Iowa State University']
+Florence,"['Florence-Darlington Technical College', 'University of North Alabama', 'Francis Marion University']"
+Rochester Hills,['Oakland University']
+Arlington,"['The University of Texas at Arlington', 'Marymount University']"
+Atlanta,"['Emory University', 'Georgia State University', 'Georgia Institute of Technology-Main Campus', 'Morehouse College', 'Spelman College', 'Atlanta Metropolitan State College', 'Clark Atlanta University', 'Oglethorpe University', ""Atlanta's John Marshall Law School"", 'Morehouse School of Medicine']"
+Grand Rapids,"['Calvin College', 'Cornerstone University', 'Grand Rapids Community College', 'Calvin Theological Seminary', 'Itasca Community College', 'Aquinas College-Grand Rapids']"
+Rome,"['Georgia Highlands College', 'Georgia Northwestern Technical College']"
+South Portland,['Southern Maine Community College']
+Princeton,"['Princeton University', 'Princeton Theological Seminary']"
+Memphis,"['University of Memphis', 'Rhodes College', 'Southwest Tennessee Community College', 'Christian Brothers University', 'Memphis Theological Seminary', 'Le Moyne-Owen College', 'Memphis College of Art']"
+Las Vegas,"['University of Nevada-Las Vegas', 'College of Southern Nevada', 'New Mexico Highlands University']"
+Pomona,"['California State Polytechnic University-Pomona', 'Western University of Health Sciences']"
+Bronx,"['Fordham University', 'CUNY Lehman College', 'CUNY Bronx Community College', 'CUNY Hostos Community College', 'College of Mount Saint Vincent']"
+Westfield,['Westfield State University']
+Montreat,['Montreat College']
+Newark,"['New Jersey Institute of Technology', 'University of Delaware', 'Essex County College', 'Central Ohio Technical College', 'Rutgers University-Newark']"
+Saint Louis,"['University of Missouri-St Louis', 'Washington University in St Louis', 'Saint Louis University', 'Maryville University of Saint Louis', 'Harris-Stowe State University', 'Missouri Baptist University', 'Fontbonne University', 'St Louis College of Pharmacy', 'Covenant Theological Seminary', 'Aquinas Institute of Theology']"
+Gambier,['Kenyon College']
+Bloomington,"['Indiana University-Bloomington', 'Illinois Wesleyan University', 'Normandale Community College', 'Northwestern Health Sciences University']"
+Evanston,"['Northwestern University', 'Garrett-Evangelical Theological Seminary']"
+Poplarville,['Pearl River Community College']
+Chestnut Hill,"['Boston College', 'Pine Manor College']"
+Ithaca,"['Cornell University', 'Ithaca College']"
+Beaumont,['Lamar University']
+Morgantown,['West Virginia University']
+Ridgecrest,['Cerro Coso Community College']
+Youngstown,['Youngstown State University']
+Northfield,"['Carleton College', 'St Olaf College', 'Norwich University']"
+Boulder,"['University of Colorado Boulder', 'Naropa University']"
+Fort Wayne,"['Indiana University-Purdue University-Fort Wayne', 'University of Saint Francis-Fort Wayne']"
+Orange,"['Lamar State College-Orange', 'Chapman University', 'Santiago Canyon College']"
+Blacksburg,"['Virginia Polytechnic Institute and State University', 'Edward Via College of Osteopathic Medicine']"
+El Paso,"['El Paso Community College', 'The University of Texas at El Paso']"
+Claremont,"['Harvey Mudd College', 'Pomona College', 'Pitzer College', 'Claremont Graduate University', 'Claremont McKenna College', 'Scripps College']"
+Incline Village,['Sierra Nevada College']
+Boston,"['Simmons College', 'Suffolk University', 'University of Massachusetts-Boston', 'Berklee College of Music', 'Wentworth Institute of Technology', 'Massachusetts College of Art and Design', 'New England Law-Boston', 'Boston Architectural College', 'MCPHS University', 'Bunker Hill Community College', 'School of the Museum of Fine Arts-Boston', 'Emerson College', 'Urban College of Boston', 'Wheelock College', 'Emmanuel College-Boston', 'The Boston Conservatory']"
+The Woodlands,['Lone Star College System']
+Portland,"['Portland State University', 'Portland Community College', 'Lewis & Clark College', 'University of Southern Maine', 'Multnomah University', 'Reed College', 'Oregon Health & Science University', 'University of Portland', 'University of Western States', 'Pacific Northwest College of Art', 'Concordia University-Portland', 'National College of Natural Medicine']"
+Williamstown,['Williams College']
+North Dartmouth,['University of Massachusetts-Dartmouth']
+Eureka,"['College of the Redwoods', 'Eureka College']"
+Danville,"['Danville Community College', 'Danville Area Community College', 'Centre College']"
+Sacramento,"['California State University-Sacramento', 'Cosumnes River College', 'Sacramento City College', 'American River College']"
+Whitewater,['University of Wisconsin-Whitewater']
+Marianna,['Chipola College']
+Geneseo,['SUNY College at Geneseo']
+Columbia,"['University of South Carolina-Columbia', 'University of Missouri-Columbia', 'Columbia International University', 'Benedict College', 'Columbia College-Columbia', 'Columbia State Community College', 'Lindsey Wilson College', 'Howard Community College']"
+Brenham,['Blinn College']
+Liberal,['Seward County Community College and Area Technical School']
+Louisville,"['University of Louisville', 'Louisville Presbyterian Theological Seminary', 'Bellarmine University', 'Spalding University', 'Sullivan University']"
+Hanover,"['Dartmouth College', 'Hanover College']"
+Lubbock,"['Texas Tech University', 'Texas Tech University Health Sciences Center']"
+Niceville,['Northwest Florida State College']
+Conway,"['University of Central Arkansas', 'Hendrix College', 'Coastal Carolina University']"
+Mission Viejo,['Saddleback College']
+Odessa,"['The University of Texas of the Permian Basin', 'Odessa College']"
+Santa Barbara,"['Santa Barbara City College', 'Westmont College', 'University of California-Santa Barbara']"
+Berkeley,"['University of California-Berkeley', 'Berkeley City College', 'Church Divinity School of the Pacific', 'Pacific School of Religion']"
+Yuma,['Arizona Western College']
+Crookston,['University of Minnesota-Crookston']
+Columbus,"['Ohio State University-Main Campus', 'Columbus State University', 'Columbus State Community College', 'Mississippi University for Women', 'Capital University', 'Pontifical College Josephinum', 'Ohio Dominican University', 'Franklin University']"
+Milledgeville,['Georgia College and State University']
+Alpine,['Sul Ross State University']
+Winter Park,"['Rollins College', 'Full Sail University']"
+Houghton,"['Michigan Technological University', 'Houghton College']"
+Notre Dame,"['University of Notre Dame', ""Saint Mary's College"", 'Holy Cross College']"
+Silver City,['Western New Mexico University']
+Albuquerque,"['University of New Mexico-Main Campus', 'Central New Mexico Community College']"
+Greensboro,"['University of North Carolina at Greensboro', 'Greensboro College', 'North Carolina A & T State University', 'Guilford College']"
+Vernon,['Vernon College']
+Cincinnati,"['University of Cincinnati-Main Campus', 'Mount Saint Joseph University', 'Cincinnati State Technical and Community College', 'Xavier University', 'Cincinnati Christian University']"
+Winfield,['Southwestern College-Winfield']
+Cedar City,['Southern Utah University']
+Providence,"['Brown University', 'Rhode Island College', 'Rhode Island School of Design', 'Providence College']"
+Philadelphia,"['Temple University', 'Drexel University', 'Community College of Philadelphia', 'The University of the Arts', 'Philadelphia University', ""Saint Joseph's University"", 'La Salle University', 'The Restaurant School at Walnut Hill College', 'Thomas Jefferson University', 'Chestnut Hill College', 'Peirce College', 'Holy Family University']"
+Glenwood Springs,['Colorado Mountain College']
+Prairie View,['Prairie View A & M University']
+Auburn University,['Auburn University']
+Fullerton,"['Western State College of Law at Argosy University', 'California State University-Fullerton', 'Fullerton College', 'Hope International University']"
+Fairbanks,['University of Alaska Fairbanks']
+Juneau,['University of Alaska Southeast']
+Twin Falls,['College of Southern Idaho']
+Laramie,['University of Wyoming']
+University Park,['Governors State University']
+Kilgore,['Kilgore College']
+Kansas City,"['Kansas City Kansas Community College', 'University of Missouri-Kansas City', 'Calvary Bible College and Theological Seminary', 'Avila University', 'Rockhurst University', 'Kansas City Art Institute', 'Midwestern Baptist Theological Seminary']"
+Fort Myers,"['Florida Gulf Coast University', 'Florida SouthWestern State College']"
+Boise,['Boise State University']
+Nelsonville,['Hocking College']
+Brockport,['SUNY College at Brockport']
+Rock Hill,"['York Technical College', 'Winthrop University']"
+Macomb,['Western Illinois University']
+Baton Rouge,"['Louisiana State University and Agricultural & Mechanical College', 'Southern University and A & M College', 'Our Lady of the Lake College']"
+McAllen,['South Texas College']
+Morrow,['Clayton State University']
+Farmville,['Longwood University']
+Spokane,['Gonzaga University']
+Lufkin,['Angelina College']
+Rochester,"['University of Rochester', 'Rochester Institute of Technology', 'Monroe Community College', ""St Bernard's School of Theology and Ministry"", 'University of Minnesota-Rochester', 'Saint John Fisher College', 'Nazareth College', 'Roberts Wesleyan College']"
+Bel Air,['Harford Community College']
+Clovis,['Clovis Community College']
+Worcester,"['Worcester Polytechnic Institute', 'College of the Holy Cross', 'Quinsigamond Community College', 'Worcester State University', 'Clark University', 'University of Massachusetts Medical School Worcester', 'Assumption College', 'Becker College']"
+Lexington,"['University of Kentucky', 'Washington and Lee University', 'Virginia Military Institute', 'Transylvania University', 'Lexington Theological Seminary']"
+Presque Isle,['University of Maine at Presque Isle']
+New Wilmington,['Westminster College-New Wilmington']
+Minneapolis,"['Augsburg College', 'Walden University', 'Minneapolis College of Art and Design', 'Dunwoody College of Technology']"
+Roanoke,"['Virginia Western Community College', 'Hollins University']"
+Harrisonburg,"['James Madison University', 'Eastern Mennonite University']"
+Edmond,"['University of Central Oklahoma', 'Oklahoma Christian University']"
+Pullman,['Washington State University']
+Miami,"['Barry University', 'Florida International University', 'Miami Dade College']"
+Bainbridge,['Bainbridge State College']
+Sylmar,['Los Angeles Mission College']
+San Francisco,"['San Francisco State University', 'University of San Francisco', 'City College of San Francisco', 'Academy of Art University', 'University of California-Hastings College of Law', 'California Institute of Integral Studies', 'Golden Gate University-San Francisco', 'University of California-San Francisco', 'San Francisco Art Institute']"
+Rocklin,"['Sierra College', 'William Jessup University']"
+Valdosta,['Valdosta State University']
+Rancho Cucamonga,['Chaffey College']
+Killeen,['Central Texas College']
+Tempe,['Rio Salado College']
+Ellensburg,['Central Washington University']
+Fargo,['North Dakota State University-Main Campus']
+Rapid City,['South Dakota School of Mines and Technology']
+Carbondale,['Southern Illinois University-Carbondale']
+Texarkana,"['Texarkana College', 'Texas A & M University-Texarkana']"
+Burlington,"['University of Vermont', 'Champlain College']"
+Chattanooga,"['The University of Tennessee-Chattanooga', 'Chattanooga State Community College']"
+Saint Leo,['Saint Leo University']
+Murray,['Murray State University']
+Pemberton,['Rowan College at Burlington County']
+Meridian,['Meridian Community College']
+Winston Salem,['Wake Forest University']
+Mansfield,"['North Central State College', 'Mansfield University of Pennsylvania', 'Ohio State University-Mansfield Campus']"
+Oshkosh,['University of Wisconsin-Oshkosh']
+Grinnell,['Grinnell College']
+New Paltz,['State University of New York at New Paltz']
+Arcata,['Humboldt State University']
+Little Rock,"['University of Arkansas at Little Rock', 'University of Arkansas for Medical Sciences']"
+Salt Lake City,"['University of Utah', 'Salt Lake Community College', 'Westminster College-Salt Lake City', 'Western Governors University', 'Neumont University']"
+Pasadena,"['California Institute of Technology', 'Pasadena City College', 'San Jacinto Community College', 'Art Center College of Design', 'Pacific Oaks College']"
+Shippensburg,['Shippensburg University of Pennsylvania']
+Kutztown,['Kutztown University of Pennsylvania']
+Amherst,"['University of Massachusetts-Amherst', 'Hampshire College', 'Amherst College']"
+Winsted,['Northwestern Connecticut Community College']
+Gardner,['Mount Wachusett Community College']
+Stanford,['Stanford University']
+Edinboro,['Edinboro University of Pennsylvania']
+Bossier City,['Bossier Parish Community College']
+Beeville,['Coastal Bend College']
+West Barnstable,['Cape Cod Community College']
+Lake Jackson,['Brazosport College']
+Greenville,"['East Carolina University', 'Furman University', 'Bob Jones University', 'Greenville Technical College', 'Thiel College', 'Greenville College']"
+Gilroy,['Gavilan College']
+Grants Pass,['Rogue Community College']
+Brooklyn Park,"['North Hennepin Community College', 'Hennepin Technical College']"
+Allentown,"['Cedar Crest College', 'Muhlenberg College']"
+Hempstead,['Hofstra University']
+Toledo,"['University of Toledo', 'Mercy College of Ohio']"
+Westerville,['Otterbein University']
+Davidson,['Davidson College']
+Santa Clarita,['College of the Canyons']
+Monmouth,"['Monmouth College', 'Western Oregon University']"
+Nashville,"['Nashville State Community College', 'Tennessee State University', 'Vanderbilt University', 'Lipscomb University', 'Belmont University', 'Trevecca Nazarene University']"
+Torrance,['El Camino Community College District']
+Mississippi State,['Mississippi State University']
+Port Arthur,['Lamar State College-Port Arthur']
+Dekalb,['Northern Illinois University']
+Moberly,['Moberly Area Community College']
+Winona,"['Minnesota State College-Southeast Technical', 'Winona State University', ""Saint Mary's University of Minnesota""]"
+Omaha,"['Creighton University', 'University of Nebraska at Omaha', 'University of Nebraska Medical Center', 'Metropolitan Community College Area', 'Grace University', 'College of Saint Mary']"
+Dover,"['Wesley College', 'Delaware State University']"
+Reno,"['University of Nevada-Reno', 'Truckee Meadows Community College']"
+Raleigh,"['North Carolina State University at Raleigh', 'Wake Technical Community College', 'Shaw University', 'Meredith College']"
+Santa Cruz,['University of California-Santa Cruz']
+Birmingham,"['University of Alabama at Birmingham', 'Jefferson State Community College', 'Birmingham Southern College', 'Samford University']"
+Dallas,"['Southern Methodist University', 'Bakke Graduate University', 'Dallas Baptist University', 'Misericordia University', 'Gaston College']"
+Norman,['University of Oklahoma-Norman Campus']
+Emporia,['Emporia State University']
+Bellingham,"['Western Washington University', 'Northwest Indian College', 'Bellingham Technical College', 'Whatcom Community College']"
+Walla Walla,"['Whitman College', 'Walla Walla Community College']"
+Fort Worth,"['Texas Christian University', 'Texas Wesleyan University', 'University of North Texas Health Science Center', 'Tarrant County College District']"
+Cortland,['SUNY College at Cortland']
+Kearney,['University of Nebraska at Kearney']
+Paramus,['Bergen Community College']
+Greenwood,"['Lander University', 'Piedmont Technical College']"
+Lynchburg,"['Liberty University', 'Randolph College', 'Central Virginia Community College', 'Lynchburg College']"
+Boone,['Appalachian State University']
+Farmington,"['San Juan College', 'Tunxis Community College', 'University of Maine at Farmington']"
+Canton,"['SUNY College of Technology at Canton', 'St Lawrence University', 'Malone University', 'Culver-Stockton College', 'Kent State University at Stark']"
+Snyder,['Western Texas College']
+Mattoon,['Lake Land College']
+Waukesha,['Carroll University']
+Boca Raton,"['Florida Atlantic University', 'Lynn University']"
+Orono,['University of Maine']
+Indianapolis,"['Indiana University-Purdue University-Indianapolis', 'Butler University', 'Marian University-Indianapolis', 'University of Indianapolis']"
+Alva,['Northwestern Oklahoma State University']
+Carlisle,['Dickinson College']
+Monroe,"['Monroe County Community College', 'University of Louisiana at Monroe']"
+Hays,['Fort Hays State University']
+Terre Haute,"['Rose-Hulman Institute of Technology', 'Indiana State University']"
+Clinton,"['Hamilton College', 'Mississippi College', 'Presbyterian College']"
+Buffalo,"['University at Buffalo', 'SUNY Buffalo State', 'Canisius College', 'Erie Community College', 'Medaille College', ""D'Youville College"", 'Trocaire College']"
+Indiana,['Indiana University of Pennsylvania-Main Campus']
+Long Beach,"['California State University-Long Beach', 'Long Beach City College']"
+Las Cruces,['New Mexico State University-Main Campus']
+South Lake Tahoe,['Lake Tahoe Community College']
+Hagerstown,['Hagerstown Community College']
+Lamoni,['Graceland University-Lamoni']
+Pueblo,"['Colorado State University-Pueblo', 'Pueblo Community College']"
+New London,"['Colby-Sawyer College', 'Connecticut College', 'United States Coast Guard Academy']"
+Ogden,['Weber State University']
+Claremore,['Rogers State University']
+Olympia,"['The Evergreen State College', 'South Puget Sound Community College']"
+Fort Collins,['Colorado State University-Fort Collins']
+Carson City,['Western Nevada College']
+Vestal,['SUNY at Binghamton']
+San Luis Obispo,"['California Polytechnic State University-San Luis Obispo', 'Cuesta College']"
+Saint Paul,"['Metropolitan State University', 'Macalester College', 'University of St Thomas-Saint Paul', 'Hamline University', 'Luther Seminary', 'St Catherine University', 'Concordia University-Saint Paul', 'Saint Paul College', 'University of Northwestern-St Paul']"
+Kalamazoo,"['Western Michigan University', 'Kalamazoo College', 'Kalamazoo Valley Community College']"
+Vincennes,['Vincennes University']
+Aiken,['University of South Carolina-Aiken']
+Orange Beach,['Columbia Southern University']
+West Lafayette,['Purdue University-Main Campus']
+Flagstaff,['Northern Arizona University']
+Fulton,"['Itawamba Community College', 'Westminster College-Fulton', 'William Woods University']"
+Clearwater,['St Petersburg College']
+Fredonia,['SUNY at Fredonia']
+Fort Smith,['University of Arkansas-Fort Smith']
+Oglesby,['Illinois Valley Community College']
+Forest Grove,['Pacific University']
+Monticello,['University of Arkansas at Monticello']
+Napa,['Napa Valley College']
+Eugene,"['University of Oregon', 'Lane Community College']"
+Garden City,['Adelphi University']
+Raymond,['Hinds Community College']
+Hillsboro,"['Jefferson College', 'Hill College', 'Southern State Community College']"
+Kentfield,['College of Marin']
+Plattsburgh,"['SUNY College at Plattsburgh', 'Clinton Community College']"
+Chico,['California State University-Chico']
+Tahlequah,['Northeastern State University']
+Branchburg,['Raritan Valley Community College']
+Waterville,['Colby College']
+Whiting,['Calumet College of Saint Joseph']
+Mount Vernon,"['Cornell College', 'Skagit Valley College', 'Mount Vernon Nazarene University', 'Brewton-Parker College']"
+Staten Island,"['College of Staten Island CUNY', 'Wagner College']"
+Harriman,['Roane State Community College']
+Everett,['Everett Community College']
+Sarasota,"['New College of Florida', 'University of South Florida-Sarasota-Manatee', 'Ringling College of Art and Design']"
+Lowell,['University of Massachusetts-Lowell']
+Palos Hills,['Moraine Valley Community College']
+Chanute,['Neosho County Community College']
+Hartford,"['Trinity College', 'Hartford Seminary', 'Capital Community College']"
+Savannah,"['Savannah College of Art and Design', 'Armstrong State University', 'Savannah Technical College', 'Savannah State University']"
+Lawrenceville,"['Georgia Gwinnett College', 'Rider University', 'Gwinnett Technical College']"
+San Pablo,['Contra Costa College']
+Monterey,"['Naval Postgraduate School', 'Monterey Institute of International Studies', 'Monterey Peninsula College']"
+College Place,['Walla Walla University']
+La Mirada,['Biola University']
+Oceanside,['MiraCosta College']
+New Haven,"['Yale University', 'Southern Connecticut State University', 'Albertus Magnus College', 'Gateway Community College-New Haven']"
+Mobile,"['University of South Alabama', 'Spring Hill College', 'Bishop State Community College']"
+Phoenix,"['South Mountain Community College', 'Phoenix College', 'Paradise Valley Community College', 'Grand Canyon University', 'GateWay Community College-Phoenix']"
+Cypress,"['Cypress College', 'Trident University International']"
+Thibodaux,['Nicholls State University']
+Easton,"['Stonehill College', 'Lafayette College']"
+Richfield,['Adler Graduate School']
+Colorado Springs,"['Pikes Peak Community College', 'University of Colorado Colorado Springs', 'Colorado College']"
+Midland,['Midland College']
+Lisle,['Benedictine University']
+Tacoma,"['University of Washington-Tacoma Campus', 'Pacific Lutheran University', 'University of Puget Sound', 'Tacoma Community College', 'Bates Technical College']"
+Graham,['Alamance Community College']
+Coos Bay,['Southwestern Oregon Community College']
+Pensacola,"['Pensacola State College', 'The University of West Florida']"
+Coon Rapids,['Anoka-Ramsey Community College']
+Troy,"['Rensselaer Polytechnic Institute', 'Troy University', 'Walsh College of Accountancy and Business Administration', 'Hudson Valley Community College', 'The Sage Colleges']"
+Huntington,"['Marshall University', 'Huntington University']"
+Glendale,['Glendale Community College-Glendale']
+Greencastle,['DePauw University']
+Hanceville,['George C Wallace State Community College-Hanceville']
+Camarillo,"[""St John's Seminary"", 'California State University-Channel Islands']"
+Millersville,['Millersville University of Pennsylvania']
+Logan,['Utah State University']
+Valley Glen,['Los Angeles Valley College']
+Fresno,"['California State University-Fresno', 'Fresno Pacific University', 'Fresno City College']"
+Menomonie,['University of Wisconsin-Stout']
+University of Richmond,['University of Richmond']
+Russellville,['Arkansas Tech University']
+Highland Heights,['Northern Kentucky University']
+Auburn,"['Green River College', 'Cayuga County Community College', 'Central Maine Community College']"
+Kent,['Kent State University at Kent']
+Moorhead,"['Minnesota State University Moorhead', 'Mississippi Delta Community College', 'Concordia College at Moorhead']"
+Jacksonville,"['Florida Coastal School of Law', 'University of North Florida', 'Florida State College at Jacksonville', 'Jacksonville State University', 'Illinois College', 'Jacksonville University', 'Coastal Carolina Community College', 'MacMurray College']"
+Spearfish,['Black Hills State University']
+Lewiston,"['Bates College', 'Lewis-Clark State College']"
+South Hadley,['Mount Holyoke College']
+Cedar Falls,['University of Northern Iowa']
+Inver Grove Heights,['Inver Hills Community College']
+Ephraim,['Snow College']
+Harrison,['Mid Michigan Community College']
+Oswego,['SUNY College at Oswego']
+Sault Ste Marie,['Lake Superior State University']
+Holland,['Hope College']
+Riverside,"['La Sierra University', 'Riverside City College', 'University of California-Riverside', 'California Baptist University']"
+San Diego,"['Point Loma Nazarene University', 'University of San Diego', 'San Diego State University', 'California Western School of Law', 'San Diego City College', 'San Diego Mesa College', 'Alliant International University-San Diego', 'San Diego Miramar College']"
+Decatur,"['Richland Community College', 'East Central Community College', 'Millikin University', 'Agnes Scott College', 'Columbia Theological Seminary']"
+Wahpeton,['North Dakota State College of Science']
+York,"['York College Pennsylvania', 'York College']"
+Fairfield,"['Fairfield University', 'Sacred Heart University', 'Kennebec Valley Community College', 'Solano Community College', 'Miles College']"
+Chambersburg,['Wilson College']
+Carterville,['John A Logan College']
+Whittier,"['Rio Hondo College', 'Whittier College']"
+Vermillion,['University of South Dakota']
+Berea,"['Berea College', 'Baldwin Wallace University']"
+Norfolk,"['Old Dominion University', 'Tidewater Community College', 'Norfolk State University', 'Virginia Wesleyan College', 'Eastern Virginia Medical School']"
+Asheville,"['University of North Carolina at Asheville', 'Asheville-Buncombe Technical Community College']"
+El Cajon,"['Grossmont College', 'Cuyamaca College']"
+Pleasant Hill,"['Diablo Valley College', 'John F. Kennedy University']"
+Glassboro,['Rowan University']
+Williamsburg,"['College of William and Mary', 'University of the Cumberlands']"
+Manchester,"['Saint Anselm College', 'Southern New Hampshire University', 'Manchester Community College-Manchester']"
+Plainview,['Wayland Baptist University']
+Marietta,"['Marietta College', 'Chattahoochee Technical College', 'Life University', 'Washington State Community College']"
+Fayetteville,"['Fayetteville State University', 'University of Arkansas', 'Fayetteville Technical Community College', 'Methodist University']"
+Colby,['Colby Community College']
+Bryn Mawr,"['Bryn Mawr College', 'Harcum College']"
+Cape Girardeau,['Southeast Missouri State University']
+Annandale-On-Hudson,['Bard College']
+Des Moines,"['Drake University', 'Des Moines University-Osteopathic Medical Center', 'Highline College', 'Grand View University']"
+Due West,['Erskine College']
+Greeley,"['University of Northern Colorado', 'Aims Community College']"
+South Royalton,['Vermont Law School']
+Newton Centre,"['Hebrew College', 'Andover Newton Theological School']"
+Wharton,['Wharton County Junior College']
+River Grove,['Triton College']
+Mechanicsburg,['Messiah College']
+Glen Ellyn,['College of DuPage']
+Moscow,['University of Idaho']
+Elon,['Elon University']
+Lincoln,"['Nebraska Wesleyan University', 'Southeast Community College Area', 'University of Nebraska-Lincoln', 'Union College-Lincoln']"
+Charlottesville,"['University of Virginia-Main Campus', 'Piedmont Virginia Community College']"
+Bridgewater,"['Bridgewater College', 'Bridgewater State University']"
+Blue Bell,['Montgomery County Community College']
+Bakersfield,"['Bakersfield College', 'California State University-Bakersfield']"
+Parkersburg,['West Virginia University at Parkersburg']
+Youngwood,['Westmoreland County Community College']
+Wooster,['The College of Wooster']
+Cookeville,['Tennessee Technological University']
+Largo,"[""Prince George's Community College""]"
+Senatobia,['Northwest Mississippi Community College']
+Ypsilanti,['Eastern Michigan University']
+Shoreline,['Shoreline Community College']
+Bend,['Central Oregon Community College']
+Wesson,['Copiah-Lincoln Community College']
+Hattiesburg,"['University of Southern Mississippi', 'William Carey University']"
+Purchase,"['SUNY at Purchase College', 'Manhattanville College']"
+Carthage,['Panola College']
+Wenham,['Gordon College']
+Orem,['Utah Valley University']
+Mahwah,['Ramapo College of New Jersey']
+Bolivar,['Southwest Baptist University']
+Wheaton,['Wheaton College-Wheaton']
+Elizabethtown,['Elizabethtown College']
+Villanova,['Villanova University']
+Oxford,['Miami University-Oxford']
+Borger,['Frank Phillips College']
+Centralia,"['Centralia College', 'Kaskaskia College']"
+Brattleboro,['SIT Graduate Institute']
+Edwardsville,['Southern Illinois University-Edwardsville']
+Merced,"['University of California-Merced', 'Merced College']"
+Saint Peter,['Gustavus Adolphus College']
+Selden,['Suffolk County Community College']
+Platteville,['University of Wisconsin-Platteville']
+Geneva,['Hobart William Smith Colleges']
+Wilmore,"['Asbury Theological Seminary', 'Asbury University']"
+Moraga,"[""Saint Mary's College of California""]"
+Fredericksburg,['University of Mary Washington']
+Jamaica,['CUNY York College']
+Statesboro,['Georgia Southern University']
+Kenosha,"['University of Wisconsin-Parkside', 'Carthage College', 'Gateway Technical College']"
+Marquette,['Northern Michigan University']
+Cromwell,['Holy Apostles College and Seminary']
+Petoskey,['North Central Michigan College']
+Decorah,['Luther College']
+Great Bend,['Barton County Community College']
+West Columbia,['Midlands Technical College']
+Hammond,"['Southeastern Louisiana University', 'Purdue University-Calumet Campus']"
+Aberdeen,"['Grays Harbor College', 'Northern State University', 'Presentation College']"
+Cheney,['Eastern Washington University']
+River Forest,"['Concordia University-Chicago', 'Dominican University']"
+Perkinston,['Mississippi Gulf Coast Community College']
+Alamosa,['Adams State University']
+Socorro,['New Mexico Institute of Mining and Technology']
+Victorville,['Victor Valley College']
+Bentonville,['NorthWest Arkansas Community College']
+Mesa,['Mesa Community College']
+Turlock,['California State University-Stanislaus']
+Willimantic,['Eastern Connecticut State University']
+Atchison,['Benedictine College']
+Hot Springs,['National Park Community College']
+Oakland,"['Lincoln University-Oakland', 'Merritt College', 'Mills College', 'Laney College', 'Holy Names University']"
+Bayside,['CUNY Queensborough Community College']
+Gettysburg,['Gettysburg College']
+Lynnwood,['Edmonds Community College']
+Waterbury,"['Naugatuck Valley Community College', 'Post University']"
+Palatine,['William Rainey Harper College']
+Annapolis,['United States Naval Academy']
+High Point,['High Point University']
+Virginia Beach,['Regent University']
+Radford,['Radford University']
+West Chester,['West Chester University of Pennsylvania']
+Georgetown,"['Southwestern University', 'Georgetown College']"
+Winooski,['Community College of Vermont']
+Dayton,"['University of Dayton', 'Wright State University-Main Campus', 'Sinclair Community College', 'Bryan College-Dayton', 'United Theological Seminary']"
+Dryden,['Tompkins Cortland Community College']
+Costa Mesa,"['Vanguard University of Southern California', 'Orange Coast College']"
+Huntingdon,['Juniata College']
+Leesburg,['Lake-Sumter State College']
+Northridge,['California State University-Northridge']
+Hampton,"['Thomas Nelson Community College', 'Hampton University']"
+Topeka,['Washburn University']
+Cranford,['Union County College']
+Erie,"['Mercyhurst University', 'Gannon University']"
+Camden,['Rutgers University-Camden']
+Rolla,['Missouri University of Science and Technology']
+Wichita,"['Wichita State University', 'Friends University', 'Newman University', 'Wichita Area Technical College']"
+Vineland,['Cumberland County College']
+Cocoa,['Eastern Florida State College']
+Green Bay,"['University of Wisconsin-Green Bay', 'Northeast Wisconsin Technical College']"
+Big Rapids,['Ferris State University']
+La Crosse,"['University of Wisconsin-La Crosse', 'Viterbo University', 'Western Technical College-La Crosse']"
+Stephenville,['Tarleton State University']
+Duluth,"['University of Minnesota-Duluth', 'The College of Saint Scholastica', 'Lake Superior College']"
+Maryville,"['Northwest Missouri State University', 'Maryville College']"
+Spartanburg,"['University of South Carolina-Upstate', 'Spartanburg Community College', 'Wofford College', 'Sherman College of Straight Chiropractic', 'Converse College']"
+Paterson,['Passaic County Community College']
+Lyndonville,['Lyndon State College']
+Virginia,['Mesabi Range College']
+Brooklyn,"['CUNY Brooklyn College', 'CUNY Kingsborough Community College', 'CUNY New York City College of Technology', ""Saint Joseph's College-New York"", 'Brooklyn Law School', 'CUNY Medgar Evers College', 'ASA College']"
+Flushing,"['CUNY Queens College', 'Vaughn College of Aeronautics and Technology']"
+Warrensburg,['University of Central Missouri']
+Sewell,['Rowan College at Gloucester County']
+Oregon City,['Clackamas Community College']
+La Verne,['University of La Verne']
+Monterey Park,['East Los Angeles College']
+Siloam Springs,['John Brown University']
+Biddeford,['University of New England']
+Arkansas City,['Cowley County Community College']
+International Falls,['Rainy River Community College']
+Brookings,['South Dakota State University']
+Moses Lake,['Big Bend Community College']
+Hoboken,['Stevens Institute of Technology']
+Rock Island,['Augustana College-Rock Island']
+Fremont,"['Ohlone College', 'Terra State Community College']"
+Adrian,"['Adrian College', 'Siena Heights University']"
+San Bernardino,"['California State University-San Bernardino', 'San Bernardino Valley College']"
+Weed,['College of the Siskiyous']
+Rainsville,['Northeast Alabama Community College']
+Norton,['Wheaton College-Norton']
+Shepherdstown,['Shepherd University']
+Garland,['Amberton University']
+Standish,"[""Saint Joseph's College of Maine""]"
+Nampa,"['College of Western Idaho', 'Northwest Nazarene University']"
+DeLand,['Stetson University']
+Belmont,['Notre Dame de Namur University']
+Carson,['California State University-Dominguez Hills']
+West Hartford,"['University of Hartford', 'University of Saint Joseph']"
+West Long Branch,['Monmouth University']
+Cedarville,['Cedarville University']
+Appleton,"['Lawrence University', 'Fox Valley Technical College']"
+Ewing,['The College of New Jersey']
+Warwick,['Community College of Rhode Island']
+Rock Springs,['Western Wyoming Community College']
+Ankeny,['Des Moines Area Community College']
+Wellesley,"['Wellesley College', 'Babson College']"
+Swarthmore,['Swarthmore College']
+Bloomsburg,['Bloomsburg University of Pennsylvania']
+Martinsburg,['Blue Ridge Community and Technical College']
+Lincoln University,['The Lincoln University']
+El Dorado,"['Butler Community College', 'South Arkansas Community College']"
+Ashland,"['Randolph-Macon College', 'Northland College', 'Southern Oregon University', 'Ashland University']"
+Hamilton,['Colgate University']
+Golden,['Colorado School of Mines']
+Flint,"['Mott Community College', 'University of Michigan-Flint', 'Kettering University']"
+Davis,['University of California-Davis']
+Clarksville,"['Austin Peay State University', 'University of the Ozarks']"
+Jersey City,"['New Jersey City University', 'Hudson County Community College']"
+Frederick,"['Hood College', 'Frederick Community College']"
+Elyria,['Lorain County Community College']
+Fountain Valley,['Coastline Community College']
+Pendleton,"['Blue Mountain Community College', 'Tri-County Technical College']"
+South Orange,['Seton Hall University']
+Rexburg,['Brigham Young University-Idaho']
+Hibbing,['Hibbing Community College']
+Sewanee,['Sewanee-The University of the South']
+Newport News,['Christopher Newport University']
+West Point,['Point University']
+Anchorage,"['University of Alaska Anchorage', 'Alaska Pacific University']"
+San Jacinto,['Mt San Jacinto Community College District']
+Muncie,['Ball State University']
+Riverdale,['Manhattan College']
+Oakwood,['Lanier Technical College']
+Swannanoa,['Warren Wilson College']
+Folsom,['Folsom Lake College']
+Mankato,['Minnesota State University-Mankato']
+Rosemount,['Dakota County Technical College']
+Grand Forks,['University of North Dakota']
+Towson,['Towson University']
+Waverly,['Wartburg College']
+Oklahoma City,"['Oklahoma City University', 'Oklahoma State University-Oklahoma City', 'Oklahoma City Community College']"
+Lancaster,"['Franklin and Marshall College', 'Lancaster Bible College', 'Antelope Valley College', 'University of South Carolina-Lancaster', 'Cedar Valley College']"
+Helena,"['Phillips Community College of the University of Arkansas', 'Carroll College']"
+Kirksville,"['Truman State University', 'A T Still University of Health Sciences']"
+Newtown,['Bucks County Community College']
+Martin,['The University of Tennessee-Martin']
+Andover,['Massachusetts School of Law']
+Portales,['Eastern New Mexico University-Main Campus']
+Clarkesville,['North Georgia Technical College']
+Sanford,"['Seminole State College of Florida', 'Central Carolina Community College']"
+Council Bluffs,['Iowa Western Community College']
+Sioux Center,['Dordt College']
+Crawfordsville,['Wabash College']
+New Britain,"['Central Connecticut State University', 'Charter Oak State College']"
+Nashua,"['Rivier University', 'Daniel Webster College']"
+Oneonta,"['SUNY Oneonta', 'Hartwick College']"
+Rockville,['Montgomery College']
+Key West,['Florida Keys Community College']
+Brunswick,"['Bowdoin College', 'College of Coastal Georgia']"
+Tifton,['Abraham Baldwin Agricultural College']
+Park Hills,['Mineral Area College']
+Temple,['Temple College']
+Minot,['Minot State University']
+Morris,['University of Minnesota-Morris']
+Bradenton,['State College of Florida-Manatee-Sarasota']
+Frostburg,['Frostburg State University']
+La Grande,['Eastern Oregon University']
+Ruston,['Louisiana Tech University']
+Cisco,['Cisco College']
+Rio Grande,['University of Rio Grande']
+Midwest City,['Rose State College']
+Bridgeport,"['University of Bridgeport', 'Housatonic Community College']"
+Redwood City,['Canada College']
+Blountville,['Northeast State Community College']
+Fall River,['Bristol Community College']
+Bothell,['University of Washington-Bothell Campus']
+Tullahoma,['Motlow State Community College']
+Chickasha,['University of Science and Arts of Oklahoma']
+Montgomery,"['Auburn University at Montgomery', 'Huntingdon College', 'Faulkner University', 'Alabama State University']"
+Corsicana,['Navarro College']
+Walnut,['Mt San Antonio College']
+Rhinelander,['Nicolet Area Technical College']
+Framingham,['Framingham State University']
+Slippery Rock,['Slippery Rock University of Pennsylvania']
+Astoria,['Clatsop Community College']
+Hayward,"['Chabot College', 'California State University-East Bay']"
+Sparkill,['St. Thomas Aquinas College']
+Glenside,"['Arcadia University', 'Westminster Theological Seminary']"
+Greensburg,"['Seton Hill University', 'University of Pittsburgh-Greensburg']"
+Barbourville,['Union College-Barbourville']
+Wayne,"['Wayne State College', 'William Paterson University of New Jersey']"
+Laie,['Brigham Young University-Hawaii']
+Toms River,['Ocean County College']
+Warren,['Macomb Community College']
+Americus,"['South Georgia Technical College', 'Georgia Southwestern State University']"
+Dublin,['New River Community College']
+Salinas,['Hartnell College']
+Clarion,['Clarion University of Pennsylvania']
+Piqua,['Edison State Community College']
+Manhattan,"['Kansas State University', 'Manhattan Christian College', 'Manhattan Area Technical College']"
+Schenectady,"['Union College-Schenectady', 'Union Graduate College']"
+Fayette,['Upper Iowa University']
+Kankakee,['Kankakee Community College']
+Dalton,['Dalton State College']
+Miami Gardens,['St Thomas University']
+Lewisburg,['Bucknell University']
+Ocala,['College of Central Florida']
+Aptos,['Cabrillo College']
+Haverford,['Haverford College']
+Meadville,['Allegheny College']
+Durant,['Southeastern Oklahoma State University']
+Longview,"['Lower Columbia College', 'LeTourneau University']"
+Tuskegee,['Tuskegee University']
+Corpus Christi,"['Texas A & M University-Corpus Christi', 'Del Mar College']"
+Loudonville,['Siena College']
+Peru,['Peru State College']
+Elmhurst,['Elmhurst College']
+Natchitoches,['Northwestern State University of Louisiana']
+Jonesboro,['Arkansas State University-Main Campus']
+Bremerton,['Olympic College']
+Norwich,['Three Rivers Community College-Norwich']
+Monroeville,['Alabama Southern Community College']
+Pewaukee,['Waukesha County Technical College']
+Paxton,['Anna Maria College']
+Norwalk,"['Cerritos College', 'Norwalk Community College']"
+Summit,['Southwest Mississippi Community College']
+Collegeville,['Ursinus College']
+University Center,"['Delta College', 'Saginaw Valley State University']"
+Colchester,"[""Saint Michael's College""]"
+El Reno,['Redlands Community College']
+Cloquet,['Fond du Lac Tribal and Community College']
+Ave Maria,['Ave Maria University']
+Billings,"['Montana State University-Billings', 'Rocky Mountain College']"
+Peoria,['Bradley University']
+Scottsdale,['Scottsdale Community College']
+Alfred,['Alfred University']
+Cedar Rapids,"['Kirkwood Community College', 'Coe College', 'Mount Mercy University']"
+Lafayette,"['University of Louisiana at Lafayette', 'South Louisiana Community College']"
+Joliet,"['Joliet Junior College', 'University of St Francis']"
+Overland Park,"['Johnson County Community College', 'Cleveland University-Kansas City']"
+Montclair,['Montclair State University']
+Anderson,['Anderson University-Anderson']
+Moorpark,['Moorpark College']
+Plymouth,"['Lakeland College', 'Plymouth State University']"
+Sugar Grove,['Waubonsee Community College']
+Delaware,"['Ohio Wesleyan University', 'Methodist Theological School in Ohio']"
+La Plata,['College of Southern Maryland']
+Klamath Falls,"['Oregon Institute of Technology', 'Klamath Community College']"
+Weatherford,"['Weatherford College', 'Southwestern Oklahoma State University']"
+Buckhannon,['West Virginia Wesleyan College']
+Swainsboro,['East Georgia State College']
+Seguin,['Texas Lutheran University']
+Thousand Oaks,['California Lutheran University']
+Modesto,['Modesto Junior College']
+Panama City,['Gulf Coast State College']
+New Concord,['Muskingum University']
+North Mankato,['South Central College']
+Bristol,"['Roger Williams University', 'King University']"
+California,['California University of Pennsylvania']
+Poughkeepsie,"['Vassar College', 'Dutchess Community College', 'Marist College']"
+Concordia,['Cloud County Community College']
+Littleton,['Arapahoe Community College']
+Goshen,['Goshen College']
+Wadley,['Southern Union State Community College']
+St. Mary's City,"[""St Mary's College of Maryland""]"
+Williamsport,['Lycoming College']
+Murfreesboro,['Middle Tennessee State University']
+Moon Township,['Robert Morris University']
+Old Westbury,['SUNY College at Old Westbury']
+Long Island City,"['CUNY LaGuardia Community College', 'CUNY School of Law']"
+Charles Town,['American Public University System']
+Bowie,['Bowie State University']
+Ranger,['Ranger College']
+Aliso Viejo,['Soka University of America']
+Belton,['University of Mary Hardin-Baylor']
+Hazard,['Hazard Community and Technical College']
+Lebanon,"['McKendree University', 'Cumberland University']"
+Grand Junction,['Colorado Mesa University']
+Potsdam,"['Clarkson University', 'SUNY College at Potsdam']"
+Pocatello,['Idaho State University']
+Gunnison,['Western State Colorado University']
+Findlay,['The University of Findlay']
+Battle Creek,['Kellogg Community College']
+Elizabeth City,"['Elizabeth City State University', 'Mid-Atlantic Christian University', 'College of the Albemarle']"
+Fort Dodge,['Iowa Central Community College']
+Stockton,"['San Joaquin Delta College', 'University of the Pacific']"
+Danvers,['North Shore Community College']
+Harrogate,['Lincoln Memorial University']
+Waynesburg,['Waynesburg University']
+Alliance,['University of Mount Union']
+Stevens Point,['University of Wisconsin-Stevens Point']
+Malibu,['Pepperdine University']
+New Rochelle,"['The College of New Rochelle', 'Iona College']"
+Avon Park,['South Florida State College']
+Lakewood,"['Georgian Court University', 'Red Rocks Community College', 'Colorado Christian University', 'Clover Park Technical College', 'Rocky Mountain College of Art and Design']"
+Perrysburg,['Owens Community College']
+Granite Falls,['Minnesota West Community and Technical College']
+Taft,['Taft College']
+Westville,['Purdue University-North Central Campus']
+Winter Haven,['Polk State College']
+Livingston,['University of West Alabama']
+Montevallo,['University of Montevallo']
+Haverhill,['Northern Essex Community College']
+Alamogordo,['New Mexico State University-Alamogordo']
+Danbury,['Western Connecticut State University']
+Cottleville,['St Charles Community College']
+Queens,"[""St John's University-New York""]"
+Altus,['Western Oklahoma State College']
+Livermore,['Las Positas College']
+Newberg,['George Fox University']
+Elgin,"['Elgin Community College', 'Judson University']"
+Wausau,['Northcentral Technical College']
+Tanner,['John C Calhoun State Community College']
+Scottsbluff,['Western Nebraska Community College']
+Macon,"['Mercer University', 'Wesleyan College', 'Middle Georgia State College']"
+Gary,['Indiana University-Northwest']
+Marshall,"['Missouri Valley College', 'Southwest Minnesota State University', 'East Texas Baptist University']"
+Kokomo,['Indiana University-Kokomo']
+Durango,['Fort Lewis College']
+Janesville,['Blackhawk Technical College']
+Clarksdale,['Coahoma Community College']
+Vancouver,['Clark College']
+Sweet Briar,['Sweet Briar College']
+Edison,['Middlesex County College']
+Barnesville,['Gordon State College']
+Binghamton,['SUNY Broome Community College']
+Wye Mills,['Chesapeake College']
+Eau Claire,"['University of Wisconsin-Eau Claire', 'Chippewa Valley Technical College']"
+St. Petersburg,['University of South Florida-St Petersburg']
+Sioux City,"['Western Iowa Tech Community College', 'Morningside College', 'Briar Cliff University']"
+Granville,['Denison University']
+Coffeyville,['Coffeyville Community College']
+Lindsborg,['Bethany College-Lindsborg']
+Franklin,"['Paul D Camp Community College', 'Franklin College', 'Dean College']"
+Glendora,['Citrus College']
+Centreville,['Glen Oaks Community College']
+Lacey,"[""Saint Martin's University""]"
+Benton Harbor,['Lake Michigan College']
+Marion,['Indiana Wesleyan University']
+Farmingdale,['Farmingdale State College']
+Dearborn,"['University of Michigan-Dearborn', 'Henry Ford College']"
+Ada,['Ohio Northern University']
+Gresham,['Mt Hood Community College']
+Morrisville,['Morrisville State College']
+Daytona Beach,"['Daytona State College', 'Bethune-Cookman University']"
+Irving,['University of Dallas']
+Hope,['University of Arkansas Community College-Hope']
+Ukiah,['Mendocino College']
+Yucaipa,['Crafton Hills College']
+Vienna,['Ohio Valley University']
+North Little Rock,['Pulaski Technical College']
+Deerfield,['Trinity International University-Illinois']
+Redlands,['University of Redlands']
+Augusta,"['Paine College', 'Augusta Technical College']"
+Reading,"['Albright College', 'Alvernia University', 'Reading Area Community College']"
+Grayslake,['College of Lake County']
+Lookout Mountain,['Covenant College']
+Throggs Neck,['SUNY Maritime College']
+Pembroke,['University of North Carolina at Pembroke']
+Sherman,['Austin College']
+Itta Bena,['Mississippi Valley State University']
+Booneville,['Northeast Mississippi Community College']
+Hudson,['Caldwell Community College and Technical Institute']
+Spring Arbor,['Spring Arbor University']
+Seminole,['Seminole State College']
+Blythe,['Palo Verde College']
+Quincy,"['Eastern Nazarene College', 'Feather River Community College District', 'Quincy College', 'John Wood Community College']"
+Batavia,['Genesee Community College']
+Davenport,"['Saint Ambrose University', 'Palmer College of Chiropractic']"
+Fairmont,['Fairmont State University']
+Rindge,['Franklin Pierce University']
+Tigerville,['North Greenville University']
+Stone Ridge,['Ulster County Community College']
+South Bend,['Indiana University-South Bend']
+Northampton,['Smith College']
+Dyersburg,['Dyersburg State Community College']
+Morehead,['Morehead State University']
+Immaculata,['Immaculata University']
+Greenfield,['Greenfield Community College']
+Dubuque,"['University of Dubuque', 'Emmaus Bible College', 'Loras College', 'Wartburg Theological Seminary']"
+Gadsden,['Gadsden State Community College']
+Porterville,['Porterville College']
+Cumberland,['Allegany College of Maryland']
+Kerrville,['Schreiner University']
+Galloway,['Stockton University']
+Bemidji,['Bemidji State University']
+Fort Scott,['Fort Scott Community College']
+Pablo,['Salish Kootenai College']
+Cullowhee,['Western Carolina University']
+Sioux Falls,"['Augustana University', 'University of Sioux Falls']"
+Westminster,"['Front Range Community College', 'McDaniel College', 'Carroll Community College']"
+Belleville,['Southwestern Illinois College']
+Aston,['Neumann University']
+Bronxville,['Sarah Lawrence College']
+Superior,['University of Wisconsin-Superior']
+Muskegon,['Muskegon Community College']
+Chula Vista,['Southwestern College-Chula Vista']
+Laurel,['Capitol Technology University']
+Storm Lake,['Buena Vista University']
+Hesston,['Hesston College']
+Magnolia,['Southern Arkansas University Main Campus']
+Kings Point,['United States Merchant Marine Academy']
+Upland,['Taylor University']
+Albion,['Albion College']
+Annville,['Lebanon Valley College']
+Mount Berry,['Berry College']
+Beloit,['Beloit College']
+Seaside,['California State University-Monterey Bay']
+Orange City,['Northwestern College']
+Shreveport,"['Centenary College of Louisiana', 'Louisiana State University-Shreveport']"
+Dowagiac,['Southwestern Michigan College']
+Santa Ana,['Santa Ana College']
+Newton,"['Mount Ida College', 'Sussex County Community College']"
+Saint Bonaventure,['St Bonaventure University']
+Buies Creek,['Campbell University']
+Greeneville,['Tusculum College']
+Wisconsin Rapids,['Mid-State Technical College']
+North Canton,"['Walsh University', 'Stark State College']"
+Joplin,"['Missouri Southern State University', 'Ozark Christian College']"
+Petersburg,['Virginia State University']
+Saint Cloud,['Saint Cloud State University']
+West Liberty,['West Liberty University']
+New Bern,['Craven Community College']
+Beaver Falls,['Geneva College']
+Muscle Shoals,['Northwest-Shoals Community College']
+Florissant,['Saint Louis Christian College']
+Cicero,['Morton College']
+Bloomfield,['Bloomfield College']
+Saint Joseph,['Missouri Western State University']
+North Adams,['Massachusetts College of Liberal Arts']
+Moline,['Black Hawk College']
+Dobbs Ferry,['Mercy College']
+Jefferson City,"['Carson-Newman University', 'Lincoln University-Jefferson City']"
+Weston,['Regis College']
+Niagara University,['Niagara University']
+Arkadelphia,"['Henderson State University', 'Ouachita Baptist University']"
+Utica,"['Utica College', 'Utica School of Commerce']"
+Graniteville,['Aiken Technical College']
+Milton,['Curry College']
+West Haven,['University of New Haven']
+Redding,['Shasta College']
+Locust Grove,['Germanna Community College']
+Goodwell,['Oklahoma Panhandle State University']
+Gallatin,['Volunteer State Community College']
+Oroville,['Butte College']
+Saint Petersburg,['Eckerd College']
+Hamden,['Quinnipiac University']
+Great Barrington,"[""Bard College at Simon's Rock""]"
+Rosemont,['Rosemont College']
+Media,['Delaware County Community College']
+Glenns,['Rappahannock Community College']
+Waterloo,['Hawkeye Community College']
+Newburgh,['Mount Saint Mary College']
+Aurora,"['Wells College', 'Community College of Aurora', 'Aurora University']"
+Brockton,['Massasoit Community College']
+Princess Anne,['University of Maryland Eastern Shore']
+Poteau,['Carl Albert State College']
+Bourbonnais,['Olivet Nazarene University']
+New Albany,['Indiana University-Southeast']
+Oakdale,['Dowling College']
+Dickinson,['Dickinson State University']
+Albemarle,['Stanly Community College']
+Palm Desert,['College of the Desert']
+Lawton,['Cameron University']
+Prescott,"['Yavapai College', 'Prescott College']"
+Traverse City,['Northwestern Michigan College']
+Norco,['Norco College']
+Ullin,['Shawnee Community College']
+New Castle,['Wilmington University']
+Goldsboro,['Wayne Community College']
+Thatcher,['Eastern Arizona College']
+Angwin,['Pacific Union College']
+Palos Heights,['Trinity Christian College']
+Nyack,['Nyack College']
+Rockford,"['Rockford University', 'Rock Valley College']"
+Chicago Heights,['Prairie State College']
+Arnold,['Anne Arundel Community College']
+Misenheimer,['Pfeiffer University']
+Cresson,['Mount Aloysius College']
+Holyoke,['Holyoke Community College']
+Alpena,['Alpena Community College']
+Paris,['Paris Junior College']
+Banner Elk,['Lees-McRae College']
+Nanticoke,['Luzerne County Community College']
+Ripon,['Ripon College']
+Ferrum,['Ferrum College']
+Trenton,"['Thomas Edison State University', 'North Central Missouri College']"
+Zanesville,['Zane State College']
+Fort Pierce,['Indian River State College']
+La Plume,['Keystone College']
+Hackettstown,['Centenary College']
+Winston-Salem,"['Winston-Salem State University', 'University of North Carolina School of the Arts']"
+Fort Morgan,['Morgan Community College']
+Wingate,['Wingate University']
+North Manchester,['Manchester University']
+Orangeburg,"['South Carolina State University', 'Claflin University']"
+Palatka,['Saint Johns River State College']
+Kyle,['Oglala Lakota College']
+Tiffin,['Heidelberg University']
+Doylestown,['Delaware Valley University']
+Scottville,['West Shore Community College']
+Galesburg,"['Knox College', 'Carl Sandburg College']"
+Saint Charles,['Lindenwood University']
+Keene,"['Keene State College', 'Antioch University-New England']"
+Malta,['Kishwaukee College']
+Sylvania,['Lourdes University']
+Sheldon,['Northwest Iowa Community College']
+Roseburg,['Umpqua Community College']
+Lakeland,"['Florida Southern College', 'Southeastern University']"
+Daphne,['United States Sports Academy']
+Elkins,['Davis & Elkins College']
+Barstow,['Barstow Community College']
+Kingsville,['Texas A & M University-Kingsville']
+Lake Charles,"['McNeese State University', 'SOWELA Technical Community College']"
+Grundy,['Appalachian School of Law']
+Institute,['West Virginia State University']
+Bismarck,"['University of Mary', 'Bismarck State College']"
+Enterprise,['Enterprise State Community College']
+Batesville,"['University of Arkansas Community College-Batesville', 'Lyon College']"
+University Heights,['John Carroll University']
+Hilo,"['University of Hawaii at Hilo', 'Hawaii Community College']"
+Cheyenne,['Laramie County Community College']
+Lake Forest,['Lake Forest College']
+Lock Haven,['Lock Haven University']
+Moreno Valley,['Moreno Valley College']
+Port Huron,['St Clair County Community College']
+Santa Fe,['Santa Fe Community College']
+Kirtland,['Lakeland Community College']
+Steubenville,['Franciscan University of Steubenville']
+Warner,['Connors State College']
+Chalmette,['Nunez Community College']
+Hickory,"['Catawba Valley Community College', 'Lenoir-Rhyne University']"
+Saranac Lake,['North Country Community College']
+Henniker,['New England College']
+Saint Davids,['Eastern University']
+Chadron,['Chadron State College']
+Waxahachie,['Southwestern Assemblies of God University']
+Santa Maria,['Allan Hancock College']
+Shell Lake,['Wisconsin Indianhead Technical College']
+Rancho Palos Verdes,['Marymount California University']
+Pittsfield,['Berkshire Community College']
+Archbold,['Northwest State Community College']
+Walnut Ridge,['Williams Baptist College']
+Wilberforce,['Central State University']
+Calmar,['Northeast Iowa Community College']
+Wellesley Hills,['Massachusetts Bay Community College']
+Denison,['Grayson College']
+Center Valley,['DeSales University']
+Rocky Mount,"['North Carolina Wesleyan College', 'Nash Community College']"
+Blackwood,['Camden County College']
+Belcourt,['Turtle Mountain Community College']
+Grove City,['Grove City College']
+New Port Richey,['Pasco-Hernando State College']
+Middlebury,['Middlebury College']
+Dixon,['Sauk Valley Community College']
+Alexandria,"['Louisiana State University-Alexandria', 'Alexandria Technical & Community College']"
+Wenatchee,['Wenatchee Valley College']
+Ventura,"['Ventura College', 'Brooks Institute']"
+Idaho Falls,['Eastern Idaho Technical College']
+West Palm Beach,['Palm Beach Atlantic University']
+Boiling Springs,['Gardner-Webb University']
+Yakima,['Yakima Valley Community College']
+Corning,['Corning Community College']
+Clyde,['Haywood Community College']
+Kalispell,['Flathead Valley Community College']
+Frankfort,['Kentucky State University']
+Trinidad,['Trinidad State Junior College']
+Morristown,['Walters State Community College']
+Indianola,['Simpson College']
+Portsmouth,['Shawnee State University']
+Pinehurst,['Sandhills Community College']
+East Stroudsburg,['East Stroudsburg University of Pennsylvania']
+Hartsville,['Coker College']
+Newport,['Salve Regina University']
+Bethany,"['Southern Nazarene University', 'Bethany College-Bethany']"
+Bloomfield Hills,['Oakland Community College']
+Weyers Cave,['Blue Ridge Community College-Weyers Cave']
+Jenkintown,['Manor College']
+Needham,['Franklin W Olin College of Engineering']
+Collegedale,['Southern Adventist University']
+Owensboro,['Kentucky Wesleyan College']
+Tsaile,['Dine College']
+Hobe Sound,['Hobe Sound Bible College']
+Coolidge,['Central Arizona College']
+Central,['Southern Wesleyan University']
+Pepper Pike,['Ursuline College']
+Ontario,['Treasure Valley Community College']
+Chester,['John Tyler Community College']
+White Bear Lake,['Century College-White Bear Lake']
+Danielson,['Quinebaug Valley Community College']
+Johnstown,"['Pennsylvania Highlands Community College', 'Fulton-Montgomery Community College']"
+Alameda,['College of Alameda']
+Wells,['York County Community College']
+Roxbury Crossing,['Roxbury Community College']
+Rensselaer,['Saint Josephs College']
+Mays Landing,['Atlantic Cape Community College']
+Smithfield,"['Bryant University', 'Johnston Community College']"
+North East,['Cecil College']
+Baldwin City,['Baker University']
+Crystal Lake,['McHenry County College']
+Stevenson,['Stevenson University']
+Bluffton,['Bluffton University']
+Randolph,['County College of Morris']
+East Greenwich,['New England Institute of Technology']
+Bar Harbor,['College of the Atlantic']
+Jamestown,['Guilford Technical Community College']
+Beverly,['Endicott College']
+Pippa Passes,['Alice Lloyd College']
+Douglas,['Cochise County Community College District']
+Pearl City,['Leeward Community College']
+Radnor,['Cabrini University']
+Watertown,"['Jefferson Community College', 'Maranatha Baptist University']"
+Hampden-Sydney,['Hampden-Sydney College']
+Winchester,['Shenandoah University']
+Alexander City,['Central Alabama Community College']
+McHenry,['Garrett College']
+East Peoria,['Illinois Central College']
+Roxboro,['Piedmont Community College']
+Romeoville,['Lewis University']
+Livonia,"['Schoolcraft College', 'Madonna University']"
+Dudley,['Nichols College']
+Lodi,['Felician University']
+Loma Linda,['Loma Linda University']
+Fitchburg,['Fitchburg State University']
+Pocahontas,['Black River Technical College']
+Chestertown,['Washington College']
+Wise,"[""The University of Virginia's College at Wise""]"
+Redmond,['DigiPen Institute of Technology']
+Olathe,['MidAmerica Nazarene University']
+Rockville Centre,['Molloy College']
+East Hartford,['Goodwin College']
+Hiram,['Hiram College']
+Temple Terrace,['Florida College']
+North Chicago,['Rosalind Franklin University of Medicine and Science']
+Jasper,['Bevill State Community College']
+River Falls,['University of Wisconsin-River Falls']
+Valencia,['California Institute of the Arts']
+Grand Island,['Central Community College']
+Poplar Bluff,['Three Rivers Community College-Poplar Bluff']
+North Andover,['Merrimack College']
+Selinsgrove,['Susquehanna University']
+Visalia,['College of the Sequoias']
+Lima,['James A Rhodes State College']
+Brewton,['Jefferson Davis Community College']
+Schnecksville,['Lehigh Carbon Community College']
+Morrilton,['University of Arkansas Community College-Morrilton']
+Pulaski,['Martin Methodist College']
+McPherson,['McPherson College']
+Sonora,['Columbia College-Sonora']
+Wytheville,['Wytheville Community College']
+Emory,['Emory & Henry College']
+Wheeling,['Wheeling Jesuit University']
+Abingdon,['Virginia Highlands Community College']
+Cheraw,['Northeastern Technical College']
+Hyde Park,['Culinary Institute of America']
+Kenmore,['Bastyr University']
+Dillon,['The University of Montana-Western']
+Vallejo,"['The California Maritime Academy', 'Touro University California']"
+Point Lookout,['College of the Ozarks']
+Fond Du Lac,['Marian University-Fond Du Lac']
+Leavenworth,['University of Saint Mary']
+Los Alamos,['University of New Mexico-Los Alamos Campus']
+Alma,['Alma College']
+Hutchinson,['Hutchinson Community College']
+Franklin Springs,['Emmanuel College-Franklin Springs']
+Holly Springs,['Rust College']
+Defiance,['Defiance College']
+Fort Valley,['Fort Valley State University']
+Haviland,['Barclay College']
+Mena,['Rich Mountain Community College']
+Caldwell,['Caldwell University']
+Devils Lake,['Lake Region State College']
+Brookline,['Newbury College']
+Staunton,['Mary Baldwin College']
+Demorest,['Piedmont College']
+Wilson,['Barton College']
+Sidney,['Montcalm Community College']
+Gwynedd Valley,['Gwynedd Mercy University']
+Lake City,['Florida Gateway College']
+Brownwood,['Howard Payne University']
+Iola,['Allen County Community College']
+Macy,['Nebraska Indian Community College']
+Grambling,['Grambling State University']
+Lenexa,['Grantham University']
+Fond du Lac,['Moraine Park Technical College']
+Williston,['Williston State College']
+Concord,['Granite State College']
+Mequon,['Concordia University-Wisconsin']
+Holbrook,['Northland Pioneer College']
+Clarks Summit,['Clarks Summit University']
+Henderson,"['Freed-Hardeman University', 'Vance-Granville Community College']"
+Wyncote,['Reconstructionist Rabbinical College']
+Valley City,['Valley City State University']
+Weldon,['Halifax Community College']
+Vidalia,['Southeastern Technical College']
+Tishomingo,['Murray State College']
+Langhorne,['Cairn University-Langhorne']
+Thief River Falls,['Northland Community and Technical College']
+Skokie,['Hebrew Theological College']
+San Rafael,['Dominican University of California']
+Port Angeles,['Peninsula College']
+Spindale,['Isothermal Community College']
+Winterville,['Pitt Community College']
+Middletown,['Lord Fairfax Community College']
+Mason City,['North Iowa Area Community College']
+Calais,['Washington County Community College']
+Valhalla,['New York Medical College']
+Pineville,['Clear Creek Baptist Bible College']
+Putney,['Landmark College']
+Lithonia,['Luther Rice University & Seminary']
+De Pere,['Saint Norbert College']
+Baytown,['Lee College']
+Renton,['Renton Technical College']
+Asheboro,['Randolph Community College']
+Hamburg,['Hilbert College']
+Gaffney,['Limestone College']
+Mount Olive,['University of Mount Olive']
+Big Stone Gap,['Mountain Empire Community College']
+Randolph Center,['Vermont Technical College']
+Dodge City,['Dodge City Community College']
+Carpinteria,['Pacifica Graduate Institute']
+Glendive,['Dawson Community College']
+Barrow,['Ilisagvik College']
+Statesville,['Mitchell Community College']
+McKenzie,['Bethel University-McKenzie']
+Oakland City,['Oakland City University']
+Prescott Valley,['Northcentral University']
+Sumter,"['Morris College', 'University of South Carolina-Sumter']"
+Atherton,['Menlo College']
+Wilburton,['Eastern Oklahoma State College']
+St. Meinrad,['Saint Meinrad School of Theology']
+De Queen,['Cossatot Community College of the University of Arkansas']
+Espanola,['Northern New Mexico College']
+La Junta,['Otero Junior College']
+Buzzards Bay,['Massachusetts Maritime Academy']
+Brimley,['Bay Mills Community College']
+Hastings,['Hastings College']
+Chandler,['Chandler-Gilbert Community College']
+Seward,['Concordia University-Nebraska']
+Papillion,['Nebraska Christian College']
+Babson Park,['Webber International University']
+Toppenish,['Heritage University']
+Oskaloosa,['William Penn University']
+Bay Minette,['James H Faulkner State Community College']
+Olivet,['Olivet College']
+Escondido,['Westminster Theological Seminary in California']
+Moore,['Hillsdale Free Will Baptist College']
+Kapolei,['University of Hawaii-West Oahu']
+Selma,['George C Wallace State Community College-Selma']
+Kingman,['Mohave Community College']
+Kinston,['Lenoir Community College']
+Fennimore,['Southwest Wisconsin Technical College']
+Emmitsburg,"[""Mount St Mary's University""]"
+Lagrange,['LaGrange College']
+Shelby,['Cleveland Community College']
+San Bruno,['Skyline College']
+Melfa,['Eastern Shore Community College']
+Harrisburg,['Harrisburg University of Science and Technology']
+Ina,['Rend Lake College']
+Dobson,['Surry Community College']
+Laurinburg,['St Andrews University']
+New Brunswick,['New Brunswick Theological Seminary']
+Brooklyn Heights,['St Francis College']
+Poultney,['Green Mountain College']
+Ambridge,['Trinity Episcopal School for Ministry']
+Cobleskill,['SUNY College of Agriculture and Technology at Cobleskill']
+Castine,['Maine Maritime Academy']
+North Newton,['Bethel College-North Newton']
+Delhi,['SUNY College of Technology at Delhi']
+Campbellsville,['Campbellsville University']
+Elmira,['Elmira College']
+Ottumwa,['Indian Hills Community College']
+Suffern,['Rockland Community College']
+Lake Wales,['Warner University']
+Laguna Beach,['Laguna College of Art and Design']
+Keshena,['College of Menominee Nation']
+Muskogee,['Bacone College']
+Wyoming,['Grace Bible College']
+Mount Gay,['Southern West Virginia Community and Technical College']
+Anoka,['Anoka Technical College']
+Pikeville,['University of Pikeville']
