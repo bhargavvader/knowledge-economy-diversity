@@ -6,7 +6,13 @@ This repository contains the cleaning code, model creation and hyperparameter de
 
 #### Organisation
 
-The notebooks are organised as belonging to either: **data cleaning, metadata, and statistics; embedding creation and vector aggregation; data analysis (scaling and statistics)**. These notebooks cover all the analysis done presented in the paper, while also including more information on the data and analysis not included in the paper. 
+The notebooks are organised as belonging to either: 
+
+- **data cleaning, metadata, and statistics**
+- **embedding creation and vector aggregation** 
+- **data analysis (scaling and statistics)**
+
+These notebooks cover all the analysis done presented in the paper, while also including more information on the data and analysis not included in the paper. 
 
 #### Data
 
