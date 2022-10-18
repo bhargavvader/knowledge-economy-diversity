@@ -1,6 +1,6 @@
 # Modelling Semantic Diversity in Knowledge Economy
 
-Repository to accompany WWW submission on semantic model of diversity in the knowledge economy. 
+Repository to accompany the article: "Misalignment between Skills Discovered, Disseminated, and Deployed in the Knowledge Economy", Bhargav Srinivasa Desikan and James Evans.
 
 This repository contains the cleaning code, model creation and hyperparameter details, and some statistics on the make-up of the data. The notebooks folder contains all the jupyter notebooks used for analysis. The images folder contains all the figures and plots from the paper as well as more figures and plots not included in the paper. 
 
